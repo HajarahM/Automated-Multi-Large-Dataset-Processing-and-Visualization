@@ -5,3 +5,13 @@ pdfkit
 matplotlit
 pgwalker
 streamlit
+streamlit-chat
+langchain
+pypdf
+torch
+accelerate
+bitsandbytes
+transformers
+sentence_transformers
+faiss-cpu
+ctransformers
