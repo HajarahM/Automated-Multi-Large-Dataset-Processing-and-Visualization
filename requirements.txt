@@ -1,0 +1,7 @@
+pandas
+py-AutoClean
+ydata-profiling
+pdfkit
+matplotlit
+pgwalker
+streamlit

@@ -1,0 +1,277 @@
+,Date,Emirate_EN,Emirate_AR,Nationality_EN,Nationality_AR,Speciality_EN,Speciality_AR,Referred_Cases (Number)
+0,2015,Dubai,دبي,Citizen,مواطن,MEDICINE,باطنية,269
+1,2015,Dubai,دبي,Citizen,مواطن,CHEST,أمراض صدرية,5
+2,2015,Dubai,دبي,Citizen,مواطن,CARDIOLOGY,أمراض قلب,57
+3,2015,Dubai,دبي,Citizen,مواطن,THORACIC SURGERY,جراحة صدر,1
+4,2015,Dubai,دبي,Citizen,مواطن,CARDIAC SURGERY,جراحة قلب,7
+5,2015,Dubai,دبي,Citizen,مواطن,PSYCHIATRY,عصبية ونفسية,29
+6,2015,Dubai,دبي,Citizen,مواطن,NEUROLOGY,جراحة أعصاب,14
+7,2015,Dubai,دبي,Citizen,مواطن,DERMATOLOGY,جلدية وتناسلية,192
+8,2015,Dubai,دبي,Citizen,مواطن,UROLOGY,مسالك بولية,66
+9,2015,Dubai,دبي,Citizen,مواطن,PEDIATRIC MEDICINE,أطفال (باطنية),21
+10,2015,Dubai,دبي,Citizen,مواطن,PEDIATRIC SURGERY,جراحة أطفال,9
+11,2015,Dubai,دبي,Citizen,مواطن,GENERAL SURGERY,جراحة عامة,220
+12,2015,Dubai,دبي,Citizen,مواطن,ORTHOPAEDIC,عظام,256
+13,2015,Dubai,دبي,Citizen,مواطن,PLASTIC SURGERY,حروق وتجميل,37
+14,2015,Dubai,دبي,Citizen,مواطن,OPHTHALMOLOGY,عيون,272
+15,2015,Dubai,دبي,Citizen,مواطن,ENT,أنف وأذن و حنجرة,231
+16,2015,Dubai,دبي,Citizen,مواطن,GYNECOLOGY,نساء,86
+17,2015,Dubai,دبي,Citizen,مواطن,OBSTETRIC,ولادة,116
+18,2015,Dubai,دبي,Citizen,مواطن,NUCLEAR MEDICINE,أشعة وطب نووي,10
+19,2015,Dubai,دبي,Citizen,مواطن,ONCOLOGY,سرطان,0
+20,2015,Dubai,دبي,Citizen,مواطن,DENTAL,أسنان,43
+21,2015,Dubai,دبي,Citizen,مواطن,EMERGENCY,طوارىء,75
+22,2015,Dubai,دبي,Citizen,مواطن,OTHERS,أخرى,49
+23,2015,Dubai,دبي,Non-Citizen,غير مواطن,MEDICINE,باطنية,65
+24,2015,Dubai,دبي,Non-Citizen,غير مواطن,CHEST,أمراض صدرية,0
+25,2015,Dubai,دبي,Non-Citizen,غير مواطن,CARDIOLOGY,أمراض قلب,14
+26,2015,Dubai,دبي,Non-Citizen,غير مواطن,THORACIC SURGERY,جراحة صدر,2
+27,2015,Dubai,دبي,Non-Citizen,غير مواطن,CARDIAC SURGERY,جراحة قلب,3
+28,2015,Dubai,دبي,Non-Citizen,غير مواطن,PSYCHIATRY,عصبية ونفسية,14
+29,2015,Dubai,دبي,Non-Citizen,غير مواطن,NEUROLOGY,جراحة أعصاب,8
+30,2015,Dubai,دبي,Non-Citizen,غير مواطن,DERMATOLOGY,جلدية وتناسلية,42
+31,2015,Dubai,دبي,Non-Citizen,غير مواطن,UROLOGY,مسالك بولية,32
+32,2015,Dubai,دبي,Non-Citizen,غير مواطن,PEDIATRIC MEDICINE,أطفال (باطنية),22
+33,2015,Dubai,دبي,Non-Citizen,غير مواطن,PEDIATRIC SURGERY,جراحة أطفال,13
+34,2015,Dubai,دبي,Non-Citizen,غير مواطن,GENERAL SURGERY,جراحة عامة,54
+35,2015,Dubai,دبي,Non-Citizen,غير مواطن,ORTHOPAEDIC,عظام,42
+36,2015,Dubai,دبي,Non-Citizen,غير مواطن,PLASTIC SURGERY,حروق وتجميل,8
+37,2015,Dubai,دبي,Non-Citizen,غير مواطن,OPHTHALMOLOGY,عيون,52
+38,2015,Dubai,دبي,Non-Citizen,غير مواطن,ENT,أنف وأذن و حنجرة,47
+39,2015,Dubai,دبي,Non-Citizen,غير مواطن,GYNECOLOGY,نساء,98
+40,2015,Dubai,دبي,Non-Citizen,غير مواطن,OBSTETRIC,ولادة,486
+41,2015,Dubai,دبي,Non-Citizen,غير مواطن,NUCLEAR MEDICINE,أشعة وطب نووي,20
+42,2015,Dubai,دبي,Non-Citizen,غير مواطن,ONCOLOGY,سرطان,1
+43,2015,Dubai,دبي,Non-Citizen,غير مواطن,DENTAL,أسنان,4
+44,2015,Dubai,دبي,Non-Citizen,غير مواطن,EMERGENCY,طوارىء,58
+45,2015,Dubai,دبي,Non-Citizen,غير مواطن,OTHERS,أخرى,118
+46,2015,Sharja,الشارقة,Citizen,مواطن,MEDICINE,باطنية,450
+47,2015,Sharja,الشارقة,Citizen,مواطن,CHEST,أمراض صدرية,21
+48,2015,Sharja,الشارقة,Citizen,مواطن,CARDIOLOGY,أمراض قلب,78
+49,2015,Sharja,الشارقة,Citizen,مواطن,THORACIC SURGERY,جراحة صدر,4
+50,2015,Sharja,الشارقة,Citizen,مواطن,CARDIAC SURGERY,جراحة قلب,20
+51,2015,Sharja,الشارقة,Citizen,مواطن,PSYCHIATRY,عصبية ونفسية,79
+52,2015,Sharja,الشارقة,Citizen,مواطن,NEUROLOGY,جراحة أعصاب,72
+53,2015,Sharja,الشارقة,Citizen,مواطن,DERMATOLOGY,جلدية وتناسلية,517
+54,2015,Sharja,الشارقة,Citizen,مواطن,UROLOGY,مسالك بولية,104
+55,2015,Sharja,الشارقة,Citizen,مواطن,PEDIATRIC MEDICINE,أطفال (باطنية),156
+56,2015,Sharja,الشارقة,Citizen,مواطن,PEDIATRIC SURGERY,جراحة أطفال,17
+57,2015,Sharja,الشارقة,Citizen,مواطن,GENERAL SURGERY,جراحة عامة,397
+58,2015,Sharja,الشارقة,Citizen,مواطن,ORTHOPAEDIC,عظام,560
+59,2015,Sharja,الشارقة,Citizen,مواطن,PLASTIC SURGERY,حروق وتجميل,53
+60,2015,Sharja,الشارقة,Citizen,مواطن,OPHTHALMOLOGY,عيون,463
+61,2015,Sharja,الشارقة,Citizen,مواطن,ENT,أنف وأذن و حنجرة,414
+62,2015,Sharja,الشارقة,Citizen,مواطن,GYNECOLOGY,نساء,275
+63,2015,Sharja,الشارقة,Citizen,مواطن,OBSTETRIC,ولادة,94
+64,2015,Sharja,الشارقة,Citizen,مواطن,NUCLEAR MEDICINE,أشعة وطب نووي,58
+65,2015,Sharja,الشارقة,Citizen,مواطن,ONCOLOGY,سرطان,0
+66,2015,Sharja,الشارقة,Citizen,مواطن,DENTAL,أسنان,166
+67,2015,Sharja,الشارقة,Citizen,مواطن,EMERGENCY,طوارىء,448
+68,2015,Sharja,الشارقة,Citizen,مواطن,OTHERS,أخرى,287
+69,2015,Sharja,الشارقة,Non-Citizen,غير مواطن,MEDICINE,باطنية,24
+70,2015,Sharja,الشارقة,Non-Citizen,غير مواطن,CHEST,أمراض صدرية,1
+71,2015,Sharja,الشارقة,Non-Citizen,غير مواطن,CARDIOLOGY,أمراض قلب,6
+72,2015,Sharja,الشارقة,Non-Citizen,غير مواطن,THORACIC SURGERY,جراحة صدر,0
+73,2015,Sharja,الشارقة,Non-Citizen,غير مواطن,CARDIAC SURGERY,جراحة قلب,1
+74,2015,Sharja,الشارقة,Non-Citizen,غير مواطن,PSYCHIATRY,عصبية ونفسية,5
+75,2015,Sharja,الشارقة,Non-Citizen,غير مواطن,NEUROLOGY,جراحة أعصاب,2
+76,2015,Sharja,الشارقة,Non-Citizen,غير مواطن,DERMATOLOGY,جلدية وتناسلية,19
+77,2015,Sharja,الشارقة,Non-Citizen,غير مواطن,UROLOGY,مسالك بولية,2
+78,2015,Sharja,الشارقة,Non-Citizen,غير مواطن,PEDIATRIC MEDICINE,أطفال (باطنية),23
+79,2015,Sharja,الشارقة,Non-Citizen,غير مواطن,PEDIATRIC SURGERY,جراحة أطفال,4
+80,2015,Sharja,الشارقة,Non-Citizen,غير مواطن,GENERAL SURGERY,جراحة عامة,22
+81,2015,Sharja,الشارقة,Non-Citizen,غير مواطن,ORTHOPAEDIC,عظام,23
+82,2015,Sharja,الشارقة,Non-Citizen,غير مواطن,PLASTIC SURGERY,حروق وتجميل,0
+83,2015,Sharja,الشارقة,Non-Citizen,غير مواطن,OPHTHALMOLOGY,عيون,37
+84,2015,Sharja,الشارقة,Non-Citizen,غير مواطن,ENT,أنف وأذن و حنجرة,8
+85,2015,Sharja,الشارقة,Non-Citizen,غير مواطن,GYNECOLOGY,نساء,31
+86,2015,Sharja,الشارقة,Non-Citizen,غير مواطن,OBSTETRIC,ولادة,205
+87,2015,Sharja,الشارقة,Non-Citizen,غير مواطن,NUCLEAR MEDICINE,أشعة وطب نووي,1
+88,2015,Sharja,الشارقة,Non-Citizen,غير مواطن,ONCOLOGY,سرطان,0
+89,2015,Sharja,الشارقة,Non-Citizen,غير مواطن,DENTAL,أسنان,9
+90,2015,Sharja,الشارقة,Non-Citizen,غير مواطن,EMERGENCY,طوارىء,60
+91,2015,Sharja,الشارقة,Non-Citizen,غير مواطن,OTHERS,أخرى,29
+92,2015,Fujairah,الفجيرة,Citizen,مواطن,MEDICINE,باطنية,408
+93,2015,Fujairah,الفجيرة,Citizen,مواطن,CHEST,أمراض صدرية,17
+94,2015,Fujairah,الفجيرة,Citizen,مواطن,CARDIOLOGY,أمراض قلب,105
+95,2015,Fujairah,الفجيرة,Citizen,مواطن,THORACIC SURGERY,جراحة صدر,7
+96,2015,Fujairah,الفجيرة,Citizen,مواطن,CARDIAC SURGERY,جراحة قلب,8
+97,2015,Fujairah,الفجيرة,Citizen,مواطن,PSYCHIATRY,عصبية ونفسية,68
+98,2015,Fujairah,الفجيرة,Citizen,مواطن,NEUROLOGY,جراحة أعصاب,46
+99,2015,Fujairah,الفجيرة,Citizen,مواطن,DERMATOLOGY,جلدية وتناسلية,346
+100,2015,Fujairah,الفجيرة,Citizen,مواطن,UROLOGY,مسالك بولية,76
+101,2015,Fujairah,الفجيرة,Citizen,مواطن,PEDIATRIC MEDICINE,أطفال (باطنية),292
+102,2015,Fujairah,الفجيرة,Citizen,مواطن,PEDIATRIC SURGERY,جراحة أطفال,68
+103,2015,Fujairah,الفجيرة,Citizen,مواطن,GENERAL SURGERY,جراحة عامة,258
+104,2015,Fujairah,الفجيرة,Citizen,مواطن,ORTHOPAEDIC,عظام,452
+105,2015,Fujairah,الفجيرة,Citizen,مواطن,PLASTIC SURGERY,حروق وتجميل,15
+106,2015,Fujairah,الفجيرة,Citizen,مواطن,OPHTHALMOLOGY,عيون,371
+107,2015,Fujairah,الفجيرة,Citizen,مواطن,ENT,أنف وأذن و حنجرة,439
+108,2015,Fujairah,الفجيرة,Citizen,مواطن,GYNECOLOGY,نساء,158
+109,2015,Fujairah,الفجيرة,Citizen,مواطن,OBSTETRIC,ولادة,577
+110,2015,Fujairah,الفجيرة,Citizen,مواطن,NUCLEAR MEDICINE,أشعة وطب نووي,31
+111,2015,Fujairah,الفجيرة,Citizen,مواطن,ONCOLOGY,سرطان,0
+112,2015,Fujairah,الفجيرة,Citizen,مواطن,DENTAL,أسنان,174
+113,2015,Fujairah,الفجيرة,Citizen,مواطن,EMERGENCY,طوارىء,961
+114,2015,Fujairah,الفجيرة,Citizen,مواطن,OTHERS,أخرى,56
+115,2015,Fujairah,الفجيرة,Non-Citizen,غير مواطن,MEDICINE,باطنية,4
+116,2015,Fujairah,الفجيرة,Non-Citizen,غير مواطن,CHEST,أمراض صدرية,0
+117,2015,Fujairah,الفجيرة,Non-Citizen,غير مواطن,CARDIOLOGY,أمراض قلب,3
+118,2015,Fujairah,الفجيرة,Non-Citizen,غير مواطن,THORACIC SURGERY,جراحة صدر,0
+119,2015,Fujairah,الفجيرة,Non-Citizen,غير مواطن,CARDIAC SURGERY,جراحة قلب,0
+120,2015,Fujairah,الفجيرة,Non-Citizen,غير مواطن,PSYCHIATRY,عصبية ونفسية,1
+121,2015,Fujairah,الفجيرة,Non-Citizen,غير مواطن,NEUROLOGY,جراحة أعصاب,1
+122,2015,Fujairah,الفجيرة,Non-Citizen,غير مواطن,DERMATOLOGY,جلدية وتناسلية,0
+123,2015,Fujairah,الفجيرة,Non-Citizen,غير مواطن,UROLOGY,مسالك بولية,0
+124,2015,Fujairah,الفجيرة,Non-Citizen,غير مواطن,PEDIATRIC MEDICINE,أطفال (باطنية),1
+125,2015,Fujairah,الفجيرة,Non-Citizen,غير مواطن,PEDIATRIC SURGERY,جراحة أطفال,1
+126,2015,Fujairah,الفجيرة,Non-Citizen,غير مواطن,GENERAL SURGERY,جراحة عامة,9
+127,2015,Fujairah,الفجيرة,Non-Citizen,غير مواطن,ORTHOPAEDIC,عظام,12
+128,2015,Fujairah,الفجيرة,Non-Citizen,غير مواطن,PLASTIC SURGERY,حروق وتجميل,1
+129,2015,Fujairah,الفجيرة,Non-Citizen,غير مواطن,OPHTHALMOLOGY,عيون,4
+130,2015,Fujairah,الفجيرة,Non-Citizen,غير مواطن,ENT,أنف وأذن و حنجرة,3
+131,2015,Fujairah,الفجيرة,Non-Citizen,غير مواطن,GYNECOLOGY,نساء,1
+132,2015,Fujairah,الفجيرة,Non-Citizen,غير مواطن,OBSTETRIC,ولادة,20
+133,2015,Fujairah,الفجيرة,Non-Citizen,غير مواطن,NUCLEAR MEDICINE,أشعة وطب نووي,2
+134,2015,Fujairah,الفجيرة,Non-Citizen,غير مواطن,ONCOLOGY,سرطان,0
+135,2015,Fujairah,الفجيرة,Non-Citizen,غير مواطن,DENTAL,أسنان,6
+136,2015,Fujairah,الفجيرة,Non-Citizen,غير مواطن,EMERGENCY,طوارىء,229
+137,2015,Fujairah,الفجيرة,Non-Citizen,غير مواطن,OTHERS,أخرى,3
+138,2015,Ras Al Khaimah,رأس الخيمة,Citizen,مواطن,MEDICINE,باطنية,566
+139,2015,Ras Al Khaimah,رأس الخيمة,Citizen,مواطن,CHEST,أمراض صدرية,11
+140,2015,Ras Al Khaimah,رأس الخيمة,Citizen,مواطن,CARDIOLOGY,أمراض قلب,120
+141,2015,Ras Al Khaimah,رأس الخيمة,Citizen,مواطن,THORACIC SURGERY,جراحة صدر,3
+142,2015,Ras Al Khaimah,رأس الخيمة,Citizen,مواطن,CARDIAC SURGERY,جراحة قلب,15
+143,2015,Ras Al Khaimah,رأس الخيمة,Citizen,مواطن,PSYCHIATRY,عصبية ونفسية,217
+144,2015,Ras Al Khaimah,رأس الخيمة,Citizen,مواطن,NEUROLOGY,جراحة أعصاب,129
+145,2015,Ras Al Khaimah,رأس الخيمة,Citizen,مواطن,DERMATOLOGY,جلدية وتناسلية,1141
+146,2015,Ras Al Khaimah,رأس الخيمة,Citizen,مواطن,UROLOGY,مسالك بولية,133
+147,2015,Ras Al Khaimah,رأس الخيمة,Citizen,مواطن,PEDIATRIC MEDICINE,أطفال (باطنية),218
+148,2015,Ras Al Khaimah,رأس الخيمة,Citizen,مواطن,PEDIATRIC SURGERY,جراحة أطفال,28
+149,2015,Ras Al Khaimah,رأس الخيمة,Citizen,مواطن,GENERAL SURGERY,جراحة عامة,457
+150,2015,Ras Al Khaimah,رأس الخيمة,Citizen,مواطن,ORTHOPAEDIC,عظام,711
+151,2015,Ras Al Khaimah,رأس الخيمة,Citizen,مواطن,PLASTIC SURGERY,حروق وتجميل,12
+152,2015,Ras Al Khaimah,رأس الخيمة,Citizen,مواطن,OPHTHALMOLOGY,عيون,518
+153,2015,Ras Al Khaimah,رأس الخيمة,Citizen,مواطن,ENT,أنف وأذن و حنجرة,610
+154,2015,Ras Al Khaimah,رأس الخيمة,Citizen,مواطن,GYNECOLOGY,نساء,414
+155,2015,Ras Al Khaimah,رأس الخيمة,Citizen,مواطن,OBSTETRIC,ولادة,621
+156,2015,Ras Al Khaimah,رأس الخيمة,Citizen,مواطن,NUCLEAR MEDICINE,أشعة وطب نووي,6
+157,2015,Ras Al Khaimah,رأس الخيمة,Citizen,مواطن,ONCOLOGY,سرطان,1
+158,2015,Ras Al Khaimah,رأس الخيمة,Citizen,مواطن,DENTAL,أسنان,287
+159,2015,Ras Al Khaimah,رأس الخيمة,Citizen,مواطن,EMERGENCY,طوارىء,981
+160,2015,Ras Al Khaimah,رأس الخيمة,Citizen,مواطن,OTHERS,أخرى,69
+161,2015,Ras Al Khaimah,رأس الخيمة,Non-Citizen,غير مواطن,MEDICINE,باطنية,18
+162,2015,Ras Al Khaimah,رأس الخيمة,Non-Citizen,غير مواطن,CHEST,أمراض صدرية,0
+163,2015,Ras Al Khaimah,رأس الخيمة,Non-Citizen,غير مواطن,CARDIOLOGY,أمراض قلب,31
+164,2015,Ras Al Khaimah,رأس الخيمة,Non-Citizen,غير مواطن,THORACIC SURGERY,جراحة صدر,0
+165,2015,Ras Al Khaimah,رأس الخيمة,Non-Citizen,غير مواطن,CARDIAC SURGERY,جراحة قلب,0
+166,2015,Ras Al Khaimah,رأس الخيمة,Non-Citizen,غير مواطن,PSYCHIATRY,عصبية ونفسية,17
+167,2015,Ras Al Khaimah,رأس الخيمة,Non-Citizen,غير مواطن,NEUROLOGY,جراحة أعصاب,3
+168,2015,Ras Al Khaimah,رأس الخيمة,Non-Citizen,غير مواطن,DERMATOLOGY,جلدية وتناسلية,21
+169,2015,Ras Al Khaimah,رأس الخيمة,Non-Citizen,غير مواطن,UROLOGY,مسالك بولية,3
+170,2015,Ras Al Khaimah,رأس الخيمة,Non-Citizen,غير مواطن,PEDIATRIC MEDICINE,أطفال (باطنية),9
+171,2015,Ras Al Khaimah,رأس الخيمة,Non-Citizen,غير مواطن,PEDIATRIC SURGERY,جراحة أطفال,2
+172,2015,Ras Al Khaimah,رأس الخيمة,Non-Citizen,غير مواطن,GENERAL SURGERY,جراحة عامة,27
+173,2015,Ras Al Khaimah,رأس الخيمة,Non-Citizen,غير مواطن,ORTHOPAEDIC,عظام,30
+174,2015,Ras Al Khaimah,رأس الخيمة,Non-Citizen,غير مواطن,PLASTIC SURGERY,حروق وتجميل,2
+175,2015,Ras Al Khaimah,رأس الخيمة,Non-Citizen,غير مواطن,OPHTHALMOLOGY,عيون,10
+176,2015,Ras Al Khaimah,رأس الخيمة,Non-Citizen,غير مواطن,ENT,أنف وأذن و حنجرة,24
+177,2015,Ras Al Khaimah,رأس الخيمة,Non-Citizen,غير مواطن,GYNECOLOGY,نساء,36
+178,2015,Ras Al Khaimah,رأس الخيمة,Non-Citizen,غير مواطن,OBSTETRIC,ولادة,359
+179,2015,Ras Al Khaimah,رأس الخيمة,Non-Citizen,غير مواطن,NUCLEAR MEDICINE,أشعة وطب نووي,1
+180,2015,Ras Al Khaimah,رأس الخيمة,Non-Citizen,غير مواطن,ONCOLOGY,سرطان,0
+181,2015,Ras Al Khaimah,رأس الخيمة,Non-Citizen,غير مواطن,DENTAL,أسنان,7
+182,2015,Ras Al Khaimah,رأس الخيمة,Non-Citizen,غير مواطن,EMERGENCY,طوارىء,159
+183,2015,Ras Al Khaimah,رأس الخيمة,Non-Citizen,غير مواطن,OTHERS,أخرى,2
+184,2015,Umm Al Quwain,أم القوين,Citizen,مواطن,MEDICINE,باطنية,70
+185,2015,Umm Al Quwain,أم القوين,Citizen,مواطن,CHEST,أمراض صدرية,3
+186,2015,Umm Al Quwain,أم القوين,Citizen,مواطن,CARDIOLOGY,أمراض قلب,16
+187,2015,Umm Al Quwain,أم القوين,Citizen,مواطن,THORACIC SURGERY,جراحة صدر,0
+188,2015,Umm Al Quwain,أم القوين,Citizen,مواطن,CARDIAC SURGERY,جراحة قلب,2
+189,2015,Umm Al Quwain,أم القوين,Citizen,مواطن,PSYCHIATRY,عصبية ونفسية,14
+190,2015,Umm Al Quwain,أم القوين,Citizen,مواطن,NEUROLOGY,جراحة أعصاب,3
+191,2015,Umm Al Quwain,أم القوين,Citizen,مواطن,DERMATOLOGY,جلدية وتناسلية,39
+192,2015,Umm Al Quwain,أم القوين,Citizen,مواطن,UROLOGY,مسالك بولية,22
+193,2015,Umm Al Quwain,أم القوين,Citizen,مواطن,PEDIATRIC MEDICINE,أطفال (باطنية),24
+194,2015,Umm Al Quwain,أم القوين,Citizen,مواطن,PEDIATRIC SURGERY,جراحة أطفال,0
+195,2015,Umm Al Quwain,أم القوين,Citizen,مواطن,GENERAL SURGERY,جراحة عامة,35
+196,2015,Umm Al Quwain,أم القوين,Citizen,مواطن,ORTHOPAEDIC,عظام,20
+197,2015,Umm Al Quwain,أم القوين,Citizen,مواطن,PLASTIC SURGERY,حروق وتجميل,3
+198,2015,Umm Al Quwain,أم القوين,Citizen,مواطن,OPHTHALMOLOGY,عيون,49
+199,2015,Umm Al Quwain,أم القوين,Citizen,مواطن,ENT,أنف وأذن و حنجرة,40
+200,2015,Umm Al Quwain,أم القوين,Citizen,مواطن,GYNECOLOGY,نساء,27
+201,2015,Umm Al Quwain,أم القوين,Citizen,مواطن,OBSTETRIC,ولادة,2
+202,2015,Umm Al Quwain,أم القوين,Citizen,مواطن,NUCLEAR MEDICINE,أشعة وطب نووي,0
+203,2015,Umm Al Quwain,أم القوين,Citizen,مواطن,ONCOLOGY,سرطان,0
+204,2015,Umm Al Quwain,أم القوين,Citizen,مواطن,DENTAL,أسنان,22
+205,2015,Umm Al Quwain,أم القوين,Citizen,مواطن,EMERGENCY,طوارىء,158
+206,2015,Umm Al Quwain,أم القوين,Citizen,مواطن,OTHERS,أخرى,13
+207,2015,Umm Al Quwain,أم القوين,Non-Citizen,غير مواطن,MEDICINE,باطنية,11
+208,2015,Umm Al Quwain,أم القوين,Non-Citizen,غير مواطن,CHEST,أمراض صدرية,0
+209,2015,Umm Al Quwain,أم القوين,Non-Citizen,غير مواطن,CARDIOLOGY,أمراض قلب,4
+210,2015,Umm Al Quwain,أم القوين,Non-Citizen,غير مواطن,THORACIC SURGERY,جراحة صدر,0
+211,2015,Umm Al Quwain,أم القوين,Non-Citizen,غير مواطن,CARDIAC SURGERY,جراحة قلب,0
+212,2015,Umm Al Quwain,أم القوين,Non-Citizen,غير مواطن,PSYCHIATRY,عصبية ونفسية,4
+213,2015,Umm Al Quwain,أم القوين,Non-Citizen,غير مواطن,NEUROLOGY,جراحة أعصاب,0
+214,2015,Umm Al Quwain,أم القوين,Non-Citizen,غير مواطن,DERMATOLOGY,جلدية وتناسلية,7
+215,2015,Umm Al Quwain,أم القوين,Non-Citizen,غير مواطن,UROLOGY,مسالك بولية,1
+216,2015,Umm Al Quwain,أم القوين,Non-Citizen,غير مواطن,PEDIATRIC MEDICINE,أطفال (باطنية),2
+217,2015,Umm Al Quwain,أم القوين,Non-Citizen,غير مواطن,PEDIATRIC SURGERY,جراحة أطفال,0
+218,2015,Umm Al Quwain,أم القوين,Non-Citizen,غير مواطن,GENERAL SURGERY,جراحة عامة,3
+219,2015,Umm Al Quwain,أم القوين,Non-Citizen,غير مواطن,ORTHOPAEDIC,عظام,4
+220,2015,Umm Al Quwain,أم القوين,Non-Citizen,غير مواطن,PLASTIC SURGERY,حروق وتجميل,0
+221,2015,Umm Al Quwain,أم القوين,Non-Citizen,غير مواطن,OPHTHALMOLOGY,عيون,4
+222,2015,Umm Al Quwain,أم القوين,Non-Citizen,غير مواطن,ENT,أنف وأذن و حنجرة,3
+223,2015,Umm Al Quwain,أم القوين,Non-Citizen,غير مواطن,GYNECOLOGY,نساء,8
+224,2015,Umm Al Quwain,أم القوين,Non-Citizen,غير مواطن,OBSTETRIC,ولادة,1
+225,2015,Umm Al Quwain,أم القوين,Non-Citizen,غير مواطن,NUCLEAR MEDICINE,أشعة وطب نووي,0
+226,2015,Umm Al Quwain,أم القوين,Non-Citizen,غير مواطن,ONCOLOGY,سرطان,0
+227,2015,Umm Al Quwain,أم القوين,Non-Citizen,غير مواطن,DENTAL,أسنان,0
+228,2015,Umm Al Quwain,أم القوين,Non-Citizen,غير مواطن,EMERGENCY,طوارىء,46
+229,2015,Umm Al Quwain,أم القوين,Non-Citizen,غير مواطن,OTHERS,أخرى,7
+230,2015,Ajman,عجمان,Citizen,مواطن,MEDICINE,باطنية,486
+231,2015,Ajman,عجمان,Citizen,مواطن,CHEST,أمراض صدرية,91
+232,2015,Ajman,عجمان,Citizen,مواطن,CARDIOLOGY,أمراض قلب,113
+233,2015,Ajman,عجمان,Citizen,مواطن,THORACIC SURGERY,جراحة صدر,0
+234,2015,Ajman,عجمان,Citizen,مواطن,CARDIAC SURGERY,جراحة قلب,1
+235,2015,Ajman,عجمان,Citizen,مواطن,PSYCHIATRY,عصبية ونفسية,49
+236,2015,Ajman,عجمان,Citizen,مواطن,NEUROLOGY,جراحة أعصاب,21
+237,2015,Ajman,عجمان,Citizen,مواطن,DERMATOLOGY,جلدية وتناسلية,1006
+238,2015,Ajman,عجمان,Citizen,مواطن,UROLOGY,مسالك بولية,196
+239,2015,Ajman,عجمان,Citizen,مواطن,PEDIATRIC MEDICINE,أطفال (باطنية),183
+240,2015,Ajman,عجمان,Citizen,مواطن,PEDIATRIC SURGERY,جراحة أطفال,10
+241,2015,Ajman,عجمان,Citizen,مواطن,GENERAL SURGERY,جراحة عامة,310
+242,2015,Ajman,عجمان,Citizen,مواطن,ORTHOPAEDIC,عظام,663
+243,2015,Ajman,عجمان,Citizen,مواطن,PLASTIC SURGERY,حروق وتجميل,14
+244,2015,Ajman,عجمان,Citizen,مواطن,OPHTHALMOLOGY,عيون,804
+245,2015,Ajman,عجمان,Citizen,مواطن,ENT,أنف وأذن و حنجرة,628
+246,2015,Ajman,عجمان,Citizen,مواطن,GYNECOLOGY,نساء,264
+247,2015,Ajman,عجمان,Citizen,مواطن,OBSTETRIC,ولادة,90
+248,2015,Ajman,عجمان,Citizen,مواطن,NUCLEAR MEDICINE,أشعة وطب نووي,35
+249,2015,Ajman,عجمان,Citizen,مواطن,ONCOLOGY,سرطان,2
+250,2015,Ajman,عجمان,Citizen,مواطن,DENTAL,أسنان,118
+251,2015,Ajman,عجمان,Citizen,مواطن,EMERGENCY,طوارىء,429
+252,2015,Ajman,عجمان,Citizen,مواطن,OTHERS,أخرى,270
+253,2015,Ajman,عجمان,Non-Citizen,غير مواطن,MEDICINE,باطنية,46
+254,2015,Ajman,عجمان,Non-Citizen,غير مواطن,CHEST,أمراض صدرية,3
+255,2015,Ajman,عجمان,Non-Citizen,غير مواطن,CARDIOLOGY,أمراض قلب,2
+256,2015,Ajman,عجمان,Non-Citizen,غير مواطن,THORACIC SURGERY,جراحة صدر,0
+257,2015,Ajman,عجمان,Non-Citizen,غير مواطن,CARDIAC SURGERY,جراحة قلب,0
+258,2015,Ajman,عجمان,Non-Citizen,غير مواطن,PSYCHIATRY,عصبية ونفسية,10
+259,2015,Ajman,عجمان,Non-Citizen,غير مواطن,NEUROLOGY,جراحة أعصاب,1
+260,2015,Ajman,عجمان,Non-Citizen,غير مواطن,DERMATOLOGY,جلدية وتناسلية,25
+261,2015,Ajman,عجمان,Non-Citizen,غير مواطن,UROLOGY,مسالك بولية,10
+262,2015,Ajman,عجمان,Non-Citizen,غير مواطن,PEDIATRIC MEDICINE,أطفال (باطنية),14
+263,2015,Ajman,عجمان,Non-Citizen,غير مواطن,PEDIATRIC SURGERY,جراحة أطفال,1
+264,2015,Ajman,عجمان,Non-Citizen,غير مواطن,GENERAL SURGERY,جراحة عامة,25
+265,2015,Ajman,عجمان,Non-Citizen,غير مواطن,ORTHOPAEDIC,عظام,50
+266,2015,Ajman,عجمان,Non-Citizen,غير مواطن,PLASTIC SURGERY,حروق وتجميل,2
+267,2015,Ajman,عجمان,Non-Citizen,غير مواطن,OPHTHALMOLOGY,عيون,37
+268,2015,Ajman,عجمان,Non-Citizen,غير مواطن,ENT,أنف وأذن و حنجرة,30
+269,2015,Ajman,عجمان,Non-Citizen,غير مواطن,GYNECOLOGY,نساء,55
+270,2015,Ajman,عجمان,Non-Citizen,غير مواطن,OBSTETRIC,ولادة,370
+271,2015,Ajman,عجمان,Non-Citizen,غير مواطن,NUCLEAR MEDICINE,أشعة وطب نووي,7
+272,2015,Ajman,عجمان,Non-Citizen,غير مواطن,ONCOLOGY,سرطان,0
+273,2015,Ajman,عجمان,Non-Citizen,غير مواطن,DENTAL,أسنان,3
+274,2015,Ajman,عجمان,Non-Citizen,غير مواطن,EMERGENCY,طوارىء,69
+275,2015,Ajman,عجمان,Non-Citizen,غير مواطن,OTHERS,أخرى,31

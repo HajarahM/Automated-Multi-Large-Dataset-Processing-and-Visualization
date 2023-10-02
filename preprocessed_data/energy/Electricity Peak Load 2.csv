@@ -1,0 +1,30 @@
+entity_en,unit_en,year,value,entity_en_Dubai Electricity & Water Authority,entity_en_Emirates Monitoring Centre,entity_en_Federal Electricity and Water Authority,entity_en_Sharjah Electricity and Water Authority ,unit_en_MW
+Dubai Electricity & Water Authority,MW,2010,6161.0,True,False,False,False,True
+Dubai Electricity & Water Authority,MW,2011,6206.0,True,False,False,False,True
+Dubai Electricity & Water Authority,MW,2012,6637.0,True,False,False,False,True
+Dubai Electricity & Water Authority,MW,2013,6857.0,True,False,False,False,True
+Dubai Electricity & Water Authority,MW,2014,7233.0,True,False,False,False,True
+Dubai Electricity & Water Authority,MW,2015,7696.0,True,False,False,False,True
+Dubai Electricity & Water Authority,MW,2016,7982.0,True,False,False,False,True
+Dubai Electricity & Water Authority,MW,2017,8232.0,True,False,False,False,True
+Sharjah Electricity and Water Authority ,MW,2010,1934.0,False,False,False,True,True
+Sharjah Electricity and Water Authority ,MW,2011,1968.5,False,False,False,True,True
+Sharjah Electricity and Water Authority ,MW,2012,2087.0,False,False,False,True,True
+Sharjah Electricity and Water Authority ,MW,2013,2150.0,False,False,False,True,True
+Sharjah Electricity and Water Authority ,MW,2014,2150.0,False,False,False,True,True
+Sharjah Electricity and Water Authority ,MW,2015,2340.0,False,False,False,True,True
+Sharjah Electricity and Water Authority ,MW,2016,2390.0,False,False,False,True,True
+Sharjah Electricity and Water Authority ,MW,2017,2424.0,False,False,False,True,True
+Federal Electricity and Water Authority,MW,2010,1850.0,False,False,True,False,True
+Federal Electricity and Water Authority,MW,2011,1840.0,False,False,True,False,True
+Federal Electricity and Water Authority,MW,2012,2060.0,False,False,True,False,True
+Federal Electricity and Water Authority,MW,2013,2045.0,False,False,True,False,True
+Federal Electricity and Water Authority,MW,2014,2157.0,False,False,True,False,True
+Federal Electricity and Water Authority,MW,2015,2373.0,False,False,True,False,True
+Federal Electricity and Water Authority,MW,2016,2566.0,False,False,True,False,True
+Federal Electricity and Water Authority,MW,2017,2760.0,False,False,True,False,True
+Emirates Monitoring Centre,MW,2012,16015.0,False,True,False,False,True
+Emirates Monitoring Centre,MW,2014,16015.0,False,True,False,False,True
+Emirates Monitoring Centre,MW,2015,16015.0,False,True,False,False,True
+Emirates Monitoring Centre,MW,2016,16015.0,False,True,False,False,True
+Emirates Monitoring Centre,MW,2017,16015.0,False,True,False,False,True

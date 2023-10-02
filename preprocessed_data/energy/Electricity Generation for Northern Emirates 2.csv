@@ -1,0 +1,25 @@
+entity_en,unit_en,year,value,entity_en_Dubai Electricity & Water Authority,entity_en_Federal Electricity and Water Authority,entity_en_Sharjah Electricity and Water Authority ,unit_en_GWH
+Dubai Electricity & Water Authority,GWH,2010,33742,True,False,False,True
+Dubai Electricity & Water Authority,GWH,2011,34606,True,False,False,True
+Dubai Electricity & Water Authority,GWH,2012,36297,True,False,False,True
+Dubai Electricity & Water Authority,GWH,2013,37478,True,False,False,True
+Dubai Electricity & Water Authority,GWH,2014,39599,True,False,False,True
+Dubai Electricity & Water Authority,GWH,2015,42006,True,False,False,True
+Dubai Electricity & Water Authority,GWH,2016,43092,True,False,False,True
+Dubai Electricity & Water Authority,GWH,2017,45162,True,False,False,True
+Sharjah Electricity and Water Authority ,GWH,2010,10254,False,False,True,True
+Sharjah Electricity and Water Authority ,GWH,2011,10420,False,False,True,True
+Sharjah Electricity and Water Authority ,GWH,2012,5362,False,False,True,True
+Sharjah Electricity and Water Authority ,GWH,2013,5428,False,False,True,True
+Sharjah Electricity and Water Authority ,GWH,2014,5683,False,False,True,True
+Sharjah Electricity and Water Authority ,GWH,2015,5433,False,False,True,True
+Sharjah Electricity and Water Authority ,GWH,2016,5685,False,False,True,True
+Sharjah Electricity and Water Authority ,GWH,2017,5899,False,False,True,True
+Federal Electricity and Water Authority,GWH,2010,3401,False,True,False,True
+Federal Electricity and Water Authority,GWH,2011,2540,False,True,False,True
+Federal Electricity and Water Authority,GWH,2012,2398,False,True,False,True
+Federal Electricity and Water Authority,GWH,2013,1581,False,True,False,True
+Federal Electricity and Water Authority,GWH,2014,399,False,True,False,True
+Federal Electricity and Water Authority,GWH,2015,158,False,True,False,True
+Federal Electricity and Water Authority,GWH,2016,293,False,True,False,True
+Federal Electricity and Water Authority,GWH,2017,486,False,True,False,True

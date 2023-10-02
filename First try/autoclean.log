@@ -1,0 +1,36 @@
+23-09-2023 21:53:11.09 - INFO - Started validation of input parameters...
+23-09-2023 21:53:11.09 - INFO - Completed validation of input parameters
+23-09-2023 21:53:11.09 - INFO - Started handling of duplicates... Method: "AUTO"
+23-09-2023 21:53:11.09 - DEBUG - 0 missing values found
+23-09-2023 21:53:11.09 - INFO - Completed handling of duplicates in 0.002273 seconds
+23-09-2023 21:53:11.09 - INFO - Started handling of missing values...
+23-09-2023 21:53:11.09 - INFO - Found a total of 392 missing value(s)
+23-09-2023 21:53:11.09 - INFO - Started handling of NUMERICAL missing values... Method: "AUTO"
+23-09-2023 21:53:11.11 - DEBUG - LINREG imputation of 392 value(s) succeeded for feature "Number"
+23-09-2023 21:53:11.11 - INFO - Started handling of CATEGORICAL missing values... Method: "AUTO"
+23-09-2023 21:53:11.12 - INFO - Completed handling of missing values in 0.027785 seconds
+23-09-2023 21:53:11.12 - INFO - Started handling of outliers... Method: "WINZ"
+23-09-2023 21:53:11.15 - DEBUG - Outlier imputation of 185 value(s) succeeded for feature "Number"
+23-09-2023 21:53:11.15 - INFO - Completed handling of outliers in 0.028711 seconds
+23-09-2023 21:53:11.15 - INFO - Started conversion of DATETIME features... Granularity: s
+23-09-2023 21:53:11.15 - INFO - Completed conversion of DATETIME features in 0.0015 seconds
+23-09-2023 21:53:11.15 - INFO - Started encoding categorical features... Method: "AUTO"
+23-09-2023 21:53:11.15 - DEBUG - Encoding to ONEHOT succeeded for feature "Region"
+23-09-2023 21:53:11.15 - DEBUG - Encoding to ONEHOT succeeded for feature "Section"
+23-09-2023 21:53:11.15 - DEBUG - Encoding to ONEHOT succeeded for feature "Table name"
+23-09-2023 21:53:11.15 - DEBUG - Encoding to ONEHOT succeeded for feature "Category"
+23-09-2023 21:53:11.15 - DEBUG - Encoding skipped for feature "Type"
+23-09-2023 21:53:11.15 - INFO - Completed encoding of categorical features in 0.00397 seconds
+23-09-2023 21:53:11.15 - INFO - Started feature type conversion...
+23-09-2023 21:53:11.15 - DEBUG - Conversion to type INT succeeded for feature "Year"
+23-09-2023 21:53:11.15 - DEBUG - Conversion to type FLOAT succeeded for feature "Number"
+23-09-2023 21:53:11.15 - DEBUG - Conversion to type INT succeeded for feature "Region_Abu Dhabi Region"
+23-09-2023 21:53:11.15 - DEBUG - Conversion to type INT succeeded for feature "Section_Food control"
+23-09-2023 21:53:11.15 - DEBUG - Conversion to type INT succeeded for feature "Table name_Inspection actions and Quantity of Condemnation by Region"
+23-09-2023 21:53:11.15 - DEBUG - Conversion to type INT succeeded for feature "Category_ Unmet"
+23-09-2023 21:53:11.16 - DEBUG - Conversion to type INT succeeded for feature "Category_Condemnation"
+23-09-2023 21:53:11.16 - DEBUG - Conversion to type INT succeeded for feature "Category_Other action"
+23-09-2023 21:53:11.16 - DEBUG - Conversion to type INT succeeded for feature "Category_Quantity of Condemnation KG"
+23-09-2023 21:53:11.16 - DEBUG - Conversion to type INT succeeded for feature "Category_met"
+23-09-2023 21:53:11.16 - INFO - Completed feature type conversion for 10 feature(s) in 0.003679 seconds
+23-09-2023 21:53:11.16 - INFO - AutoClean process completed in 0.078756 seconds

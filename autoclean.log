@@ -1,0 +1,24 @@
+30-09-2023 20:34:08.01 - INFO - Started validation of input parameters...
+30-09-2023 20:34:08.01 - INFO - Completed validation of input parameters
+30-09-2023 20:34:08.01 - INFO - Started handling of duplicates... Method: "AUTO"
+30-09-2023 20:34:08.01 - DEBUG - 0 missing values found
+30-09-2023 20:34:08.01 - INFO - Completed handling of duplicates in 0.000679 seconds
+30-09-2023 20:34:08.01 - INFO - Started handling of missing values...
+30-09-2023 20:34:08.01 - DEBUG - 0 missing values found
+30-09-2023 20:34:08.01 - INFO - Completed handling of missing values in 0.000256 seconds
+30-09-2023 20:34:08.01 - INFO - Started handling of outliers... Method: "WINZ"
+30-09-2023 20:34:08.01 - INFO - Completed handling of outliers in 0.000342 seconds
+30-09-2023 20:34:08.01 - INFO - Started conversion of DATETIME features... Granularity: s
+30-09-2023 20:34:08.01 - INFO - Completed conversion of DATETIME features in 0.0009 seconds
+30-09-2023 20:34:08.01 - INFO - Started encoding categorical features... Method: "AUTO"
+30-09-2023 20:34:08.01 - DEBUG - Encoding skipped for feature "Value"
+30-09-2023 20:34:08.01 - DEBUG - Encoding to ONEHOT succeeded for feature "Variable_EN - Final Discharge"
+30-09-2023 20:34:08.01 - DEBUG - Encoding to ONEHOT succeeded for feature "Unit_EN"
+30-09-2023 20:34:08.01 - DEBUG - Encoding to ONEHOT succeeded for feature "Geography_EN"
+30-09-2023 20:34:08.01 - DEBUG - Encoding to ONEHOT succeeded for feature "Indicator_EN"
+30-09-2023 20:34:08.01 - INFO - Completed encoding of categorical features in 0.002782 seconds
+30-09-2023 20:34:08.01 - INFO - Started feature type conversion...
+30-09-2023 20:34:08.01 - DEBUG - Conversion to type INT succeeded for feature "Temporal Ref - Year_EN"
+30-09-2023 20:34:08.01 - DEBUG - Conversion to type INT succeeded for feature "Temporal Ref - Year_AR"
+30-09-2023 20:34:08.01 - INFO - Completed feature type conversion for 2 feature(s) in 0.000568 seconds
+30-09-2023 20:34:08.01 - INFO - AutoClean process completed in 0.010182 seconds

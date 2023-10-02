@@ -1,0 +1,277 @@
+Date,Emirate_EN,Nationality_EN,Speciality_EN,Referred_Cases (Number),Emirate_EN_Ajman,Emirate_EN_Dubai,Emirate_EN_Fujairah,Emirate_EN_Ras Al Khaimah,Emirate_EN_Sharja,Emirate_EN_Umm Al Quwain,Nationality_EN_Citizen,Nationality_EN_Non-Citizen
+2015,Dubai,Citizen,MEDICINE,224,False,True,False,False,False,False,True,False
+2015,Dubai,Citizen,CHEST,5,False,True,False,False,False,False,True,False
+2015,Dubai,Citizen,CARDIOLOGY,57,False,True,False,False,False,False,True,False
+2015,Dubai,Citizen,THORACIC SURGERY,1,False,True,False,False,False,False,True,False
+2015,Dubai,Citizen,CARDIAC SURGERY,7,False,True,False,False,False,False,True,False
+2015,Dubai,Citizen,PSYCHIATRY,29,False,True,False,False,False,False,True,False
+2015,Dubai,Citizen,NEUROLOGY,14,False,True,False,False,False,False,True,False
+2015,Dubai,Citizen,DERMATOLOGY,192,False,True,False,False,False,False,True,False
+2015,Dubai,Citizen,UROLOGY,66,False,True,False,False,False,False,True,False
+2015,Dubai,Citizen,PEDIATRIC MEDICINE,21,False,True,False,False,False,False,True,False
+2015,Dubai,Citizen,PEDIATRIC SURGERY,9,False,True,False,False,False,False,True,False
+2015,Dubai,Citizen,GENERAL SURGERY,220,False,True,False,False,False,False,True,False
+2015,Dubai,Citizen,ORTHOPAEDIC,224,False,True,False,False,False,False,True,False
+2015,Dubai,Citizen,PLASTIC SURGERY,37,False,True,False,False,False,False,True,False
+2015,Dubai,Citizen,OPHTHALMOLOGY,224,False,True,False,False,False,False,True,False
+2015,Dubai,Citizen,ENT,224,False,True,False,False,False,False,True,False
+2015,Dubai,Citizen,GYNECOLOGY,86,False,True,False,False,False,False,True,False
+2015,Dubai,Citizen,OBSTETRIC,116,False,True,False,False,False,False,True,False
+2015,Dubai,Citizen,NUCLEAR MEDICINE,10,False,True,False,False,False,False,True,False
+2015,Dubai,Citizen,ONCOLOGY,0,False,True,False,False,False,False,True,False
+2015,Dubai,Citizen,DENTAL,43,False,True,False,False,False,False,True,False
+2015,Dubai,Citizen,EMERGENCY,75,False,True,False,False,False,False,True,False
+2015,Dubai,Citizen,OTHERS,49,False,True,False,False,False,False,True,False
+2015,Dubai,Non-Citizen,MEDICINE,65,False,True,False,False,False,False,False,True
+2015,Dubai,Non-Citizen,CHEST,0,False,True,False,False,False,False,False,True
+2015,Dubai,Non-Citizen,CARDIOLOGY,14,False,True,False,False,False,False,False,True
+2015,Dubai,Non-Citizen,THORACIC SURGERY,2,False,True,False,False,False,False,False,True
+2015,Dubai,Non-Citizen,CARDIAC SURGERY,3,False,True,False,False,False,False,False,True
+2015,Dubai,Non-Citizen,PSYCHIATRY,14,False,True,False,False,False,False,False,True
+2015,Dubai,Non-Citizen,NEUROLOGY,8,False,True,False,False,False,False,False,True
+2015,Dubai,Non-Citizen,DERMATOLOGY,42,False,True,False,False,False,False,False,True
+2015,Dubai,Non-Citizen,UROLOGY,32,False,True,False,False,False,False,False,True
+2015,Dubai,Non-Citizen,PEDIATRIC MEDICINE,22,False,True,False,False,False,False,False,True
+2015,Dubai,Non-Citizen,PEDIATRIC SURGERY,13,False,True,False,False,False,False,False,True
+2015,Dubai,Non-Citizen,GENERAL SURGERY,54,False,True,False,False,False,False,False,True
+2015,Dubai,Non-Citizen,ORTHOPAEDIC,42,False,True,False,False,False,False,False,True
+2015,Dubai,Non-Citizen,PLASTIC SURGERY,8,False,True,False,False,False,False,False,True
+2015,Dubai,Non-Citizen,OPHTHALMOLOGY,52,False,True,False,False,False,False,False,True
+2015,Dubai,Non-Citizen,ENT,47,False,True,False,False,False,False,False,True
+2015,Dubai,Non-Citizen,GYNECOLOGY,98,False,True,False,False,False,False,False,True
+2015,Dubai,Non-Citizen,OBSTETRIC,224,False,True,False,False,False,False,False,True
+2015,Dubai,Non-Citizen,NUCLEAR MEDICINE,20,False,True,False,False,False,False,False,True
+2015,Dubai,Non-Citizen,ONCOLOGY,1,False,True,False,False,False,False,False,True
+2015,Dubai,Non-Citizen,DENTAL,4,False,True,False,False,False,False,False,True
+2015,Dubai,Non-Citizen,EMERGENCY,58,False,True,False,False,False,False,False,True
+2015,Dubai,Non-Citizen,OTHERS,118,False,True,False,False,False,False,False,True
+2015,Sharja,Citizen,MEDICINE,224,False,False,False,False,True,False,True,False
+2015,Sharja,Citizen,CHEST,21,False,False,False,False,True,False,True,False
+2015,Sharja,Citizen,CARDIOLOGY,78,False,False,False,False,True,False,True,False
+2015,Sharja,Citizen,THORACIC SURGERY,4,False,False,False,False,True,False,True,False
+2015,Sharja,Citizen,CARDIAC SURGERY,20,False,False,False,False,True,False,True,False
+2015,Sharja,Citizen,PSYCHIATRY,79,False,False,False,False,True,False,True,False
+2015,Sharja,Citizen,NEUROLOGY,72,False,False,False,False,True,False,True,False
+2015,Sharja,Citizen,DERMATOLOGY,224,False,False,False,False,True,False,True,False
+2015,Sharja,Citizen,UROLOGY,104,False,False,False,False,True,False,True,False
+2015,Sharja,Citizen,PEDIATRIC MEDICINE,156,False,False,False,False,True,False,True,False
+2015,Sharja,Citizen,PEDIATRIC SURGERY,17,False,False,False,False,True,False,True,False
+2015,Sharja,Citizen,GENERAL SURGERY,224,False,False,False,False,True,False,True,False
+2015,Sharja,Citizen,ORTHOPAEDIC,224,False,False,False,False,True,False,True,False
+2015,Sharja,Citizen,PLASTIC SURGERY,53,False,False,False,False,True,False,True,False
+2015,Sharja,Citizen,OPHTHALMOLOGY,224,False,False,False,False,True,False,True,False
+2015,Sharja,Citizen,ENT,224,False,False,False,False,True,False,True,False
+2015,Sharja,Citizen,GYNECOLOGY,224,False,False,False,False,True,False,True,False
+2015,Sharja,Citizen,OBSTETRIC,94,False,False,False,False,True,False,True,False
+2015,Sharja,Citizen,NUCLEAR MEDICINE,58,False,False,False,False,True,False,True,False
+2015,Sharja,Citizen,ONCOLOGY,0,False,False,False,False,True,False,True,False
+2015,Sharja,Citizen,DENTAL,166,False,False,False,False,True,False,True,False
+2015,Sharja,Citizen,EMERGENCY,224,False,False,False,False,True,False,True,False
+2015,Sharja,Citizen,OTHERS,224,False,False,False,False,True,False,True,False
+2015,Sharja,Non-Citizen,MEDICINE,24,False,False,False,False,True,False,False,True
+2015,Sharja,Non-Citizen,CHEST,1,False,False,False,False,True,False,False,True
+2015,Sharja,Non-Citizen,CARDIOLOGY,6,False,False,False,False,True,False,False,True
+2015,Sharja,Non-Citizen,THORACIC SURGERY,0,False,False,False,False,True,False,False,True
+2015,Sharja,Non-Citizen,CARDIAC SURGERY,1,False,False,False,False,True,False,False,True
+2015,Sharja,Non-Citizen,PSYCHIATRY,5,False,False,False,False,True,False,False,True
+2015,Sharja,Non-Citizen,NEUROLOGY,2,False,False,False,False,True,False,False,True
+2015,Sharja,Non-Citizen,DERMATOLOGY,19,False,False,False,False,True,False,False,True
+2015,Sharja,Non-Citizen,UROLOGY,2,False,False,False,False,True,False,False,True
+2015,Sharja,Non-Citizen,PEDIATRIC MEDICINE,23,False,False,False,False,True,False,False,True
+2015,Sharja,Non-Citizen,PEDIATRIC SURGERY,4,False,False,False,False,True,False,False,True
+2015,Sharja,Non-Citizen,GENERAL SURGERY,22,False,False,False,False,True,False,False,True
+2015,Sharja,Non-Citizen,ORTHOPAEDIC,23,False,False,False,False,True,False,False,True
+2015,Sharja,Non-Citizen,PLASTIC SURGERY,0,False,False,False,False,True,False,False,True
+2015,Sharja,Non-Citizen,OPHTHALMOLOGY,37,False,False,False,False,True,False,False,True
+2015,Sharja,Non-Citizen,ENT,8,False,False,False,False,True,False,False,True
+2015,Sharja,Non-Citizen,GYNECOLOGY,31,False,False,False,False,True,False,False,True
+2015,Sharja,Non-Citizen,OBSTETRIC,205,False,False,False,False,True,False,False,True
+2015,Sharja,Non-Citizen,NUCLEAR MEDICINE,1,False,False,False,False,True,False,False,True
+2015,Sharja,Non-Citizen,ONCOLOGY,0,False,False,False,False,True,False,False,True
+2015,Sharja,Non-Citizen,DENTAL,9,False,False,False,False,True,False,False,True
+2015,Sharja,Non-Citizen,EMERGENCY,60,False,False,False,False,True,False,False,True
+2015,Sharja,Non-Citizen,OTHERS,29,False,False,False,False,True,False,False,True
+2015,Fujairah,Citizen,MEDICINE,224,False,False,True,False,False,False,True,False
+2015,Fujairah,Citizen,CHEST,17,False,False,True,False,False,False,True,False
+2015,Fujairah,Citizen,CARDIOLOGY,105,False,False,True,False,False,False,True,False
+2015,Fujairah,Citizen,THORACIC SURGERY,7,False,False,True,False,False,False,True,False
+2015,Fujairah,Citizen,CARDIAC SURGERY,8,False,False,True,False,False,False,True,False
+2015,Fujairah,Citizen,PSYCHIATRY,68,False,False,True,False,False,False,True,False
+2015,Fujairah,Citizen,NEUROLOGY,46,False,False,True,False,False,False,True,False
+2015,Fujairah,Citizen,DERMATOLOGY,224,False,False,True,False,False,False,True,False
+2015,Fujairah,Citizen,UROLOGY,76,False,False,True,False,False,False,True,False
+2015,Fujairah,Citizen,PEDIATRIC MEDICINE,224,False,False,True,False,False,False,True,False
+2015,Fujairah,Citizen,PEDIATRIC SURGERY,68,False,False,True,False,False,False,True,False
+2015,Fujairah,Citizen,GENERAL SURGERY,224,False,False,True,False,False,False,True,False
+2015,Fujairah,Citizen,ORTHOPAEDIC,224,False,False,True,False,False,False,True,False
+2015,Fujairah,Citizen,PLASTIC SURGERY,15,False,False,True,False,False,False,True,False
+2015,Fujairah,Citizen,OPHTHALMOLOGY,224,False,False,True,False,False,False,True,False
+2015,Fujairah,Citizen,ENT,224,False,False,True,False,False,False,True,False
+2015,Fujairah,Citizen,GYNECOLOGY,158,False,False,True,False,False,False,True,False
+2015,Fujairah,Citizen,OBSTETRIC,224,False,False,True,False,False,False,True,False
+2015,Fujairah,Citizen,NUCLEAR MEDICINE,31,False,False,True,False,False,False,True,False
+2015,Fujairah,Citizen,ONCOLOGY,0,False,False,True,False,False,False,True,False
+2015,Fujairah,Citizen,DENTAL,174,False,False,True,False,False,False,True,False
+2015,Fujairah,Citizen,EMERGENCY,224,False,False,True,False,False,False,True,False
+2015,Fujairah,Citizen,OTHERS,56,False,False,True,False,False,False,True,False
+2015,Fujairah,Non-Citizen,MEDICINE,4,False,False,True,False,False,False,False,True
+2015,Fujairah,Non-Citizen,CHEST,0,False,False,True,False,False,False,False,True
+2015,Fujairah,Non-Citizen,CARDIOLOGY,3,False,False,True,False,False,False,False,True
+2015,Fujairah,Non-Citizen,THORACIC SURGERY,0,False,False,True,False,False,False,False,True
+2015,Fujairah,Non-Citizen,CARDIAC SURGERY,0,False,False,True,False,False,False,False,True
+2015,Fujairah,Non-Citizen,PSYCHIATRY,1,False,False,True,False,False,False,False,True
+2015,Fujairah,Non-Citizen,NEUROLOGY,1,False,False,True,False,False,False,False,True
+2015,Fujairah,Non-Citizen,DERMATOLOGY,0,False,False,True,False,False,False,False,True
+2015,Fujairah,Non-Citizen,UROLOGY,0,False,False,True,False,False,False,False,True
+2015,Fujairah,Non-Citizen,PEDIATRIC MEDICINE,1,False,False,True,False,False,False,False,True
+2015,Fujairah,Non-Citizen,PEDIATRIC SURGERY,1,False,False,True,False,False,False,False,True
+2015,Fujairah,Non-Citizen,GENERAL SURGERY,9,False,False,True,False,False,False,False,True
+2015,Fujairah,Non-Citizen,ORTHOPAEDIC,12,False,False,True,False,False,False,False,True
+2015,Fujairah,Non-Citizen,PLASTIC SURGERY,1,False,False,True,False,False,False,False,True
+2015,Fujairah,Non-Citizen,OPHTHALMOLOGY,4,False,False,True,False,False,False,False,True
+2015,Fujairah,Non-Citizen,ENT,3,False,False,True,False,False,False,False,True
+2015,Fujairah,Non-Citizen,GYNECOLOGY,1,False,False,True,False,False,False,False,True
+2015,Fujairah,Non-Citizen,OBSTETRIC,20,False,False,True,False,False,False,False,True
+2015,Fujairah,Non-Citizen,NUCLEAR MEDICINE,2,False,False,True,False,False,False,False,True
+2015,Fujairah,Non-Citizen,ONCOLOGY,0,False,False,True,False,False,False,False,True
+2015,Fujairah,Non-Citizen,DENTAL,6,False,False,True,False,False,False,False,True
+2015,Fujairah,Non-Citizen,EMERGENCY,224,False,False,True,False,False,False,False,True
+2015,Fujairah,Non-Citizen,OTHERS,3,False,False,True,False,False,False,False,True
+2015,Ras Al Khaimah,Citizen,MEDICINE,224,False,False,False,True,False,False,True,False
+2015,Ras Al Khaimah,Citizen,CHEST,11,False,False,False,True,False,False,True,False
+2015,Ras Al Khaimah,Citizen,CARDIOLOGY,120,False,False,False,True,False,False,True,False
+2015,Ras Al Khaimah,Citizen,THORACIC SURGERY,3,False,False,False,True,False,False,True,False
+2015,Ras Al Khaimah,Citizen,CARDIAC SURGERY,15,False,False,False,True,False,False,True,False
+2015,Ras Al Khaimah,Citizen,PSYCHIATRY,217,False,False,False,True,False,False,True,False
+2015,Ras Al Khaimah,Citizen,NEUROLOGY,129,False,False,False,True,False,False,True,False
+2015,Ras Al Khaimah,Citizen,DERMATOLOGY,224,False,False,False,True,False,False,True,False
+2015,Ras Al Khaimah,Citizen,UROLOGY,133,False,False,False,True,False,False,True,False
+2015,Ras Al Khaimah,Citizen,PEDIATRIC MEDICINE,218,False,False,False,True,False,False,True,False
+2015,Ras Al Khaimah,Citizen,PEDIATRIC SURGERY,28,False,False,False,True,False,False,True,False
+2015,Ras Al Khaimah,Citizen,GENERAL SURGERY,224,False,False,False,True,False,False,True,False
+2015,Ras Al Khaimah,Citizen,ORTHOPAEDIC,224,False,False,False,True,False,False,True,False
+2015,Ras Al Khaimah,Citizen,PLASTIC SURGERY,12,False,False,False,True,False,False,True,False
+2015,Ras Al Khaimah,Citizen,OPHTHALMOLOGY,224,False,False,False,True,False,False,True,False
+2015,Ras Al Khaimah,Citizen,ENT,224,False,False,False,True,False,False,True,False
+2015,Ras Al Khaimah,Citizen,GYNECOLOGY,224,False,False,False,True,False,False,True,False
+2015,Ras Al Khaimah,Citizen,OBSTETRIC,224,False,False,False,True,False,False,True,False
+2015,Ras Al Khaimah,Citizen,NUCLEAR MEDICINE,6,False,False,False,True,False,False,True,False
+2015,Ras Al Khaimah,Citizen,ONCOLOGY,1,False,False,False,True,False,False,True,False
+2015,Ras Al Khaimah,Citizen,DENTAL,224,False,False,False,True,False,False,True,False
+2015,Ras Al Khaimah,Citizen,EMERGENCY,224,False,False,False,True,False,False,True,False
+2015,Ras Al Khaimah,Citizen,OTHERS,69,False,False,False,True,False,False,True,False
+2015,Ras Al Khaimah,Non-Citizen,MEDICINE,18,False,False,False,True,False,False,False,True
+2015,Ras Al Khaimah,Non-Citizen,CHEST,0,False,False,False,True,False,False,False,True
+2015,Ras Al Khaimah,Non-Citizen,CARDIOLOGY,31,False,False,False,True,False,False,False,True
+2015,Ras Al Khaimah,Non-Citizen,THORACIC SURGERY,0,False,False,False,True,False,False,False,True
+2015,Ras Al Khaimah,Non-Citizen,CARDIAC SURGERY,0,False,False,False,True,False,False,False,True
+2015,Ras Al Khaimah,Non-Citizen,PSYCHIATRY,17,False,False,False,True,False,False,False,True
+2015,Ras Al Khaimah,Non-Citizen,NEUROLOGY,3,False,False,False,True,False,False,False,True
+2015,Ras Al Khaimah,Non-Citizen,DERMATOLOGY,21,False,False,False,True,False,False,False,True
+2015,Ras Al Khaimah,Non-Citizen,UROLOGY,3,False,False,False,True,False,False,False,True
+2015,Ras Al Khaimah,Non-Citizen,PEDIATRIC MEDICINE,9,False,False,False,True,False,False,False,True
+2015,Ras Al Khaimah,Non-Citizen,PEDIATRIC SURGERY,2,False,False,False,True,False,False,False,True
+2015,Ras Al Khaimah,Non-Citizen,GENERAL SURGERY,27,False,False,False,True,False,False,False,True
+2015,Ras Al Khaimah,Non-Citizen,ORTHOPAEDIC,30,False,False,False,True,False,False,False,True
+2015,Ras Al Khaimah,Non-Citizen,PLASTIC SURGERY,2,False,False,False,True,False,False,False,True
+2015,Ras Al Khaimah,Non-Citizen,OPHTHALMOLOGY,10,False,False,False,True,False,False,False,True
+2015,Ras Al Khaimah,Non-Citizen,ENT,24,False,False,False,True,False,False,False,True
+2015,Ras Al Khaimah,Non-Citizen,GYNECOLOGY,36,False,False,False,True,False,False,False,True
+2015,Ras Al Khaimah,Non-Citizen,OBSTETRIC,224,False,False,False,True,False,False,False,True
+2015,Ras Al Khaimah,Non-Citizen,NUCLEAR MEDICINE,1,False,False,False,True,False,False,False,True
+2015,Ras Al Khaimah,Non-Citizen,ONCOLOGY,0,False,False,False,True,False,False,False,True
+2015,Ras Al Khaimah,Non-Citizen,DENTAL,7,False,False,False,True,False,False,False,True
+2015,Ras Al Khaimah,Non-Citizen,EMERGENCY,159,False,False,False,True,False,False,False,True
+2015,Ras Al Khaimah,Non-Citizen,OTHERS,2,False,False,False,True,False,False,False,True
+2015,Umm Al Quwain,Citizen,MEDICINE,70,False,False,False,False,False,True,True,False
+2015,Umm Al Quwain,Citizen,CHEST,3,False,False,False,False,False,True,True,False
+2015,Umm Al Quwain,Citizen,CARDIOLOGY,16,False,False,False,False,False,True,True,False
+2015,Umm Al Quwain,Citizen,THORACIC SURGERY,0,False,False,False,False,False,True,True,False
+2015,Umm Al Quwain,Citizen,CARDIAC SURGERY,2,False,False,False,False,False,True,True,False
+2015,Umm Al Quwain,Citizen,PSYCHIATRY,14,False,False,False,False,False,True,True,False
+2015,Umm Al Quwain,Citizen,NEUROLOGY,3,False,False,False,False,False,True,True,False
+2015,Umm Al Quwain,Citizen,DERMATOLOGY,39,False,False,False,False,False,True,True,False
+2015,Umm Al Quwain,Citizen,UROLOGY,22,False,False,False,False,False,True,True,False
+2015,Umm Al Quwain,Citizen,PEDIATRIC MEDICINE,24,False,False,False,False,False,True,True,False
+2015,Umm Al Quwain,Citizen,PEDIATRIC SURGERY,0,False,False,False,False,False,True,True,False
+2015,Umm Al Quwain,Citizen,GENERAL SURGERY,35,False,False,False,False,False,True,True,False
+2015,Umm Al Quwain,Citizen,ORTHOPAEDIC,20,False,False,False,False,False,True,True,False
+2015,Umm Al Quwain,Citizen,PLASTIC SURGERY,3,False,False,False,False,False,True,True,False
+2015,Umm Al Quwain,Citizen,OPHTHALMOLOGY,49,False,False,False,False,False,True,True,False
+2015,Umm Al Quwain,Citizen,ENT,40,False,False,False,False,False,True,True,False
+2015,Umm Al Quwain,Citizen,GYNECOLOGY,27,False,False,False,False,False,True,True,False
+2015,Umm Al Quwain,Citizen,OBSTETRIC,2,False,False,False,False,False,True,True,False
+2015,Umm Al Quwain,Citizen,NUCLEAR MEDICINE,0,False,False,False,False,False,True,True,False
+2015,Umm Al Quwain,Citizen,ONCOLOGY,0,False,False,False,False,False,True,True,False
+2015,Umm Al Quwain,Citizen,DENTAL,22,False,False,False,False,False,True,True,False
+2015,Umm Al Quwain,Citizen,EMERGENCY,158,False,False,False,False,False,True,True,False
+2015,Umm Al Quwain,Citizen,OTHERS,13,False,False,False,False,False,True,True,False
+2015,Umm Al Quwain,Non-Citizen,MEDICINE,11,False,False,False,False,False,True,False,True
+2015,Umm Al Quwain,Non-Citizen,CHEST,0,False,False,False,False,False,True,False,True
+2015,Umm Al Quwain,Non-Citizen,CARDIOLOGY,4,False,False,False,False,False,True,False,True
+2015,Umm Al Quwain,Non-Citizen,THORACIC SURGERY,0,False,False,False,False,False,True,False,True
+2015,Umm Al Quwain,Non-Citizen,CARDIAC SURGERY,0,False,False,False,False,False,True,False,True
+2015,Umm Al Quwain,Non-Citizen,PSYCHIATRY,4,False,False,False,False,False,True,False,True
+2015,Umm Al Quwain,Non-Citizen,NEUROLOGY,0,False,False,False,False,False,True,False,True
+2015,Umm Al Quwain,Non-Citizen,DERMATOLOGY,7,False,False,False,False,False,True,False,True
+2015,Umm Al Quwain,Non-Citizen,UROLOGY,1,False,False,False,False,False,True,False,True
+2015,Umm Al Quwain,Non-Citizen,PEDIATRIC MEDICINE,2,False,False,False,False,False,True,False,True
+2015,Umm Al Quwain,Non-Citizen,PEDIATRIC SURGERY,0,False,False,False,False,False,True,False,True
+2015,Umm Al Quwain,Non-Citizen,GENERAL SURGERY,3,False,False,False,False,False,True,False,True
+2015,Umm Al Quwain,Non-Citizen,ORTHOPAEDIC,4,False,False,False,False,False,True,False,True
+2015,Umm Al Quwain,Non-Citizen,PLASTIC SURGERY,0,False,False,False,False,False,True,False,True
+2015,Umm Al Quwain,Non-Citizen,OPHTHALMOLOGY,4,False,False,False,False,False,True,False,True
+2015,Umm Al Quwain,Non-Citizen,ENT,3,False,False,False,False,False,True,False,True
+2015,Umm Al Quwain,Non-Citizen,GYNECOLOGY,8,False,False,False,False,False,True,False,True
+2015,Umm Al Quwain,Non-Citizen,OBSTETRIC,1,False,False,False,False,False,True,False,True
+2015,Umm Al Quwain,Non-Citizen,NUCLEAR MEDICINE,0,False,False,False,False,False,True,False,True
+2015,Umm Al Quwain,Non-Citizen,ONCOLOGY,0,False,False,False,False,False,True,False,True
+2015,Umm Al Quwain,Non-Citizen,DENTAL,0,False,False,False,False,False,True,False,True
+2015,Umm Al Quwain,Non-Citizen,EMERGENCY,46,False,False,False,False,False,True,False,True
+2015,Umm Al Quwain,Non-Citizen,OTHERS,7,False,False,False,False,False,True,False,True
+2015,Ajman,Citizen,MEDICINE,224,True,False,False,False,False,False,True,False
+2015,Ajman,Citizen,CHEST,91,True,False,False,False,False,False,True,False
+2015,Ajman,Citizen,CARDIOLOGY,113,True,False,False,False,False,False,True,False
+2015,Ajman,Citizen,THORACIC SURGERY,0,True,False,False,False,False,False,True,False
+2015,Ajman,Citizen,CARDIAC SURGERY,1,True,False,False,False,False,False,True,False
+2015,Ajman,Citizen,PSYCHIATRY,49,True,False,False,False,False,False,True,False
+2015,Ajman,Citizen,NEUROLOGY,21,True,False,False,False,False,False,True,False
+2015,Ajman,Citizen,DERMATOLOGY,224,True,False,False,False,False,False,True,False
+2015,Ajman,Citizen,UROLOGY,196,True,False,False,False,False,False,True,False
+2015,Ajman,Citizen,PEDIATRIC MEDICINE,183,True,False,False,False,False,False,True,False
+2015,Ajman,Citizen,PEDIATRIC SURGERY,10,True,False,False,False,False,False,True,False
+2015,Ajman,Citizen,GENERAL SURGERY,224,True,False,False,False,False,False,True,False
+2015,Ajman,Citizen,ORTHOPAEDIC,224,True,False,False,False,False,False,True,False
+2015,Ajman,Citizen,PLASTIC SURGERY,14,True,False,False,False,False,False,True,False
+2015,Ajman,Citizen,OPHTHALMOLOGY,224,True,False,False,False,False,False,True,False
+2015,Ajman,Citizen,ENT,224,True,False,False,False,False,False,True,False
+2015,Ajman,Citizen,GYNECOLOGY,224,True,False,False,False,False,False,True,False
+2015,Ajman,Citizen,OBSTETRIC,90,True,False,False,False,False,False,True,False
+2015,Ajman,Citizen,NUCLEAR MEDICINE,35,True,False,False,False,False,False,True,False
+2015,Ajman,Citizen,ONCOLOGY,2,True,False,False,False,False,False,True,False
+2015,Ajman,Citizen,DENTAL,118,True,False,False,False,False,False,True,False
+2015,Ajman,Citizen,EMERGENCY,224,True,False,False,False,False,False,True,False
+2015,Ajman,Citizen,OTHERS,224,True,False,False,False,False,False,True,False
+2015,Ajman,Non-Citizen,MEDICINE,46,True,False,False,False,False,False,False,True
+2015,Ajman,Non-Citizen,CHEST,3,True,False,False,False,False,False,False,True
+2015,Ajman,Non-Citizen,CARDIOLOGY,2,True,False,False,False,False,False,False,True
+2015,Ajman,Non-Citizen,THORACIC SURGERY,0,True,False,False,False,False,False,False,True
+2015,Ajman,Non-Citizen,CARDIAC SURGERY,0,True,False,False,False,False,False,False,True
+2015,Ajman,Non-Citizen,PSYCHIATRY,10,True,False,False,False,False,False,False,True
+2015,Ajman,Non-Citizen,NEUROLOGY,1,True,False,False,False,False,False,False,True
+2015,Ajman,Non-Citizen,DERMATOLOGY,25,True,False,False,False,False,False,False,True
+2015,Ajman,Non-Citizen,UROLOGY,10,True,False,False,False,False,False,False,True
+2015,Ajman,Non-Citizen,PEDIATRIC MEDICINE,14,True,False,False,False,False,False,False,True
+2015,Ajman,Non-Citizen,PEDIATRIC SURGERY,1,True,False,False,False,False,False,False,True
+2015,Ajman,Non-Citizen,GENERAL SURGERY,25,True,False,False,False,False,False,False,True
+2015,Ajman,Non-Citizen,ORTHOPAEDIC,50,True,False,False,False,False,False,False,True
+2015,Ajman,Non-Citizen,PLASTIC SURGERY,2,True,False,False,False,False,False,False,True
+2015,Ajman,Non-Citizen,OPHTHALMOLOGY,37,True,False,False,False,False,False,False,True
+2015,Ajman,Non-Citizen,ENT,30,True,False,False,False,False,False,False,True
+2015,Ajman,Non-Citizen,GYNECOLOGY,55,True,False,False,False,False,False,False,True
+2015,Ajman,Non-Citizen,OBSTETRIC,224,True,False,False,False,False,False,False,True
+2015,Ajman,Non-Citizen,NUCLEAR MEDICINE,7,True,False,False,False,False,False,False,True
+2015,Ajman,Non-Citizen,ONCOLOGY,0,True,False,False,False,False,False,False,True
+2015,Ajman,Non-Citizen,DENTAL,3,True,False,False,False,False,False,False,True
+2015,Ajman,Non-Citizen,EMERGENCY,69,True,False,False,False,False,False,False,True
+2015,Ajman,Non-Citizen,OTHERS,31,True,False,False,False,False,False,False,True
