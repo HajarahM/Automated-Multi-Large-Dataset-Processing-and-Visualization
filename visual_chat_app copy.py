@@ -7,11 +7,19 @@ from streamlit_chat import message
 import tempfile
 from langchain.document_loaders.csv_loader import CSVLoader
 from langchain.embeddings import HuggingFaceEmbeddings
-from langchain.vectorstores.faiss import FAISS
-from langchain.llms import GPT4All
+from langchain.vectorstores import FAISS
+from langchain.llms import CTransformers
 from langchain.chains import ConversationalRetrievalChain
 from pygwalker.api.streamlit import init_streamlit_comm, get_streamlit_html
 from transformers import AutoModelForCausalLM
+from gpt4all import GPT4All, Embed4All
+
+# Get the directory where your application script is located
+script_directory = os.path.dirname(os.path.abspath(__file__))
+# Define the relative path to your llm model
+relative_model_path = "~/Applications/gpt4all/gpt4all-training/chat"
+# Create the absolute path by joining the script directory and the relative path
+absolute_model_path = os.path.join(script_directory, relative_model_path)
 
 DB_FAISS_PATH = 'vectorstore/db_faiss'
 
@@ -61,12 +69,12 @@ class InteractiveVisualization:
         loader = CSVLoader(file_path=selected_dataset, encoding="utf-8", csv_args={'delimiter': ','})
         data = loader.load()
 
-        embeddings = HuggingFaceEmbeddings(model_name='sentence-transformers/all-MiniLM-L6-v2', model_kwargs={'device': 'cpu'})
+        embeddings = Embed4All(model_name='sentence-transformers/all-MiniLM-L6-v2', model_kwargs={'device': 'cpu'})
 
         db = FAISS.from_documents(data, embeddings)
         db.save_local(DB_FAISS_PATH)
 
-        llm = GPT4All(model="./model/ggml-gpt4all-j-v1.3-groovy.bin")
+        llm = self.load_llm()
 
         chain = ConversationalRetrievalChain.from_llm(llm=llm, retriever=db.as_retriever())
 
@@ -79,7 +87,7 @@ class InteractiveVisualization:
             st.session_state['history'] = []
 
         if 'generated' not in st.session_state:
-            st.session_state['generated'] = ["Hello ! Ask me about " + selected_dataset + " 🤗"]
+            st.session_state['generated'] = ["Hello ! Ask me about " + selected_dataset.name + " 🤗"]
 
         if 'past' not in st.session_state:
             st.session_state['past'] = ["Hey ! 👋"]
@@ -116,6 +124,15 @@ class InteractiveVisualization:
                 components.html(report_html, width=1300, height=1000, scrolling=True)
         else:
             st.warning(f"No HTML report found for dataset: {dataset_name}")
+
+    def load_llm(self):
+        llm = CTransformers(
+            model_path=relative_model_path,
+            model="gpt4all-lora-quantized.bin",
+            max_new_tokens=512,
+            temperature=0.5
+        )
+        return llm
 
     def run_app(self):
         st.title("Interactive Dataset Visualization")
