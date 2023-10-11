@@ -3,3 +3,4 @@
 /model/gpt4all-lora-quantized.bin
 /model
 /raw_data/
+.env

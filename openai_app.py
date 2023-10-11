@@ -1,6 +1,6 @@
 import os
+import openai
 import pandas as pd
-import pygwalker as pyg
 import streamlit as st
 import streamlit.components.v1 as components
 from streamlit_chat import message
@@ -8,20 +8,32 @@ import tempfile
 from langchain.document_loaders.csv_loader import CSVLoader
 from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.vectorstores import FAISS
-from langchain.llms import CTransformers
 from langchain.chains import ConversationalRetrievalChain
+from langchain.indexes import VectorstoreIndexCreator
+from langchain.chains import RetrievalQA
+from langchain.llms import OpenAI
 from pygwalker.api.streamlit import init_streamlit_comm, get_streamlit_html
 from transformers import AutoModelForCausalLM
-from gpt4all import GPT4All, Embed4All
+from decouple import config, Csv
+from dotenv import load_dotenv
 
-# Get the directory where your application script is located
-script_directory = os.path.dirname(os.path.abspath(__file__))
-# Define the relative path to your llm model
-relative_model_path = "~/Applications/gpt4all/gpt4all-training/chat"
-# Create the absolute path by joining the script directory and the relative path
-absolute_model_path = os.path.join(script_directory, relative_model_path)
+
+# Load the OpenAI API key from the .env file
+#openai_api_key = os.environ.get('OPENAI_API_KEY')
+
+# Load the OpenAI API key from the .env file
+load_dotenv()
+openai_api_key = config('OPENAI_API_KEY', default='')
+
+if not openai_api_key:
+    st.error("OpenAI API key not found. Please set it in the .env file.")
+    st.stop()
+
+# Set the OpenAI API key
+openai.api_key = openai_api_key
 
 DB_FAISS_PATH = 'vectorstore/db_faiss'
+
 
 class InteractiveVisualization:
     def __init__(self):
@@ -64,24 +76,60 @@ class InteractiveVisualization:
             category, dataset_name = selected_dataset.split("/")
             self.view_html_report(category, dataset_name)
 
+    def view_html_report(self, category, dataset_name):
+        html_report_path = os.path.join(
+            self.preprocessed_data_folder, category, 'html_reports', f"{dataset_name}.html"
+        )
+        if os.path.exists(html_report_path):
+            st.subheader("HTML Report")
+            st.write(f"Viewing report for dataset: {dataset_name}")
+
+            with open(html_report_path, "r", encoding="utf-8") as report_file:
+                report_html = report_file.read()
+                components.html(report_html, width=1300, height=1000, scrolling=True)
+        else:
+            st.warning(f"No HTML report found for dataset: {dataset_name}")
+
     def chat_with_dataset(self, selected_dataset):
 
         loader = CSVLoader(file_path=selected_dataset, encoding="utf-8", csv_args={'delimiter': ','})
-        data = loader.load()
+        # Create an index using the loaded documents
+        index_creator = VectorstoreIndexCreator()
+        docsearch = index_creator.from_loaders([loader])
 
-        embeddings = Embed4All(model_name='sentence-transformers/all-MiniLM-L6-v2', model_kwargs={'device': 'cpu'})
+        data = loader.load()
+        embeddings = HuggingFaceEmbeddings(model_name='sentence-transformers/all-MiniLM-L6-v2', model_kwargs={'device': 'cpu'})
 
         db = FAISS.from_documents(data, embeddings)
         db.save_local(DB_FAISS_PATH)
 
-        llm = self.load_llm()
-
-        chain = ConversationalRetrievalChain.from_llm(llm=llm, retriever=db.as_retriever())
+        # Create a question-answering chain using the index
+        chain = RetrievalQA.from_chain_type(llm=OpenAI(), chain_type="stuff", retriever=docsearch.vectorstore.as_retriever(), user_input="question")
+        #chain = ConversationalRetrievalChain.from_llm(llm=llm, retriever=db.as_retriever())
 
         def conversational_chat(query):
-            result = chain({"question": query, "chat_history": st.session_state['history']})
-            st.session_state['history'].append((query, result["answer"]))
-            return result["answer"]
+            try:
+                # Create a list of message dictionaries in the expected format
+                messages = [
+                    {"role": "system", "content": "You are a helpful assistant that provides information."},
+                    {"role": "user", "content": query},
+                ]
+
+                # Use OpenAI's GPT-3.5 API to generate a response
+                response = openai.ChatCompletion.create(
+                    model="gpt-3.5-turbo",
+                    messages=messages
+                )
+
+                # Extract the response from the API result
+                result = response['choices'][0]['message']['content']
+
+                # Append the user query and assistant's response to the chat history
+                st.session_state['history'].append((query, result))
+                return result
+            except openai.error.OpenAIError as e:
+                st.error(f"An error occurred while communicating with the OpenAI API: {str(e)}")
+                return "Error: Unable to generate a response."
 
         if 'history' not in st.session_state:
             st.session_state['history'] = []
@@ -111,28 +159,10 @@ class InteractiveVisualization:
                     message(st.session_state["past"][i], is_user=True, key=str(i) + '_user', avatar_style="big-smile")
                     message(st.session_state["generated"][i], key=str(i), avatar_style="thumbs")
 
-    def view_html_report(self, category, dataset_name):
-        html_report_path = os.path.join(
-            self.preprocessed_data_folder, category, 'html_reports', f"{dataset_name}.html"
-        )
-        if os.path.exists(html_report_path):
-            st.subheader("HTML Report")
-            st.write(f"Viewing report for dataset: {dataset_name}")
-
-            with open(html_report_path, "r", encoding="utf-8") as report_file:
-                report_html = report_file.read()
-                components.html(report_html, width=1300, height=1000, scrolling=True)
-        else:
-            st.warning(f"No HTML report found for dataset: {dataset_name}")
-
     def load_llm(self):
-        llm = CTransformers(
-            model_path=relative_model_path,
-            model="gpt4all-lora-quantized.bin",
-            max_new_tokens=512,
-            temperature=0.5
+        return openai.ChatCompletion.create(
+            model="gpt-3.5-turbo-16k",
         )
-        return llm
 
     def run_app(self):
         st.title("Interactive Dataset Visualization")
